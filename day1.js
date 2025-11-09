@@ -4,6 +4,3 @@ console.log("Hi there");
 
 //to test git branch
 console.log("Branch Test");
-
-
-console.log("What is Gitmerging");
