@@ -1,3 +1,4 @@
 .env
 /node-modules
-gitignoretest.js
+
+git-ignore-test.js
